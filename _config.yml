@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda cards
-email: your-email@domain.com
+title: Felipe Álvarez
+email: luisfelipealvarez@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
   
@@ -20,10 +20,10 @@ url: "https://lfalvarez.github.io/portfolio" # the base hostname & protocol for 
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 #footer
-built-by: webjeda
+built-by: Felipe Álvarez
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: falvarez
+   link: 'http://felipe.al'
 
 # Build settings
 markdown: kramdown
@@ -38,10 +38,9 @@ analytics: UA-83979019-1
 disqus-shortname: webjeda-demo
 
 #social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
+facebook: https://www.facebook.com/luisfelipealvarez
+twitter: http://twitter.com/@lfalvarez
+github: http://github.com/lfalvarez
 
 #facebook like box
 fb-app-id: 549480635219583
