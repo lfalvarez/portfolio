@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-![webjeda logo]({{site.baseurl}}/images/webjeda.svg)
 
-<div class="mt50"></div>
+For creating this simple portfolio, I used a jekyll theme called Webjeda-cards you can read more at [Webjeda Blog](http://blog.webjeda.com). And you can find the code for this portfolio at [my github](https://github.com/lfalvarez/portfolio).
 
-Webjeda cards is a Bootstrap based theme. Any Bootstrap element can be used in the theme. Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 
+And this is a photo of my friends and I. It is here just because I didn't know what else to put here.
+
+![my friends]({{site.baseurl}}/images/my_friends.jpg)
