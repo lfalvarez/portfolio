@@ -22,6 +22,7 @@ For that we extended parts of the original platform so it integrated with the sy
 It also features an Android app as well as an Iphone app, both of them were a fork of the original fixmystreet platform that was originally developed by MySociety.
 
 This is a screenshot of the Android app:
+
 ![](/images/barrios-2.png)
 
 Awards

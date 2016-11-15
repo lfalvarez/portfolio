@@ -31,5 +31,5 @@ By responding a quiz you get the result.
 
 Results
 =======
-The site itself was intended to run for the past municipal elections the amount of visits was just a bit over 3% of all the voters.
+The site itself was intended to run for the past municipal elections, the amount of visits was just a bit over 3% of all the voters.
 There were 14,000 candidates (for mayor and council), of those candidates about 1,200 added their details to the platform
