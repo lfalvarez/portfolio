@@ -1,11 +1,19 @@
 ---
 layout: post
-title:  "Usage Guide"
-categories: jekyll update
+title:  "BarriosEnAcción (NeighborhoodsInAction)"
+categories: colaborative platforms
 img: image-2.png
 categories: two
+links: 
+    - url: http://barriosenaccion.cl
+      description: The running version
+      type: link
+    - url: github.com/ciudadanointeligente/barriosenaccion
+      description: Repo in github
+      type: github
 ---
 
+BarriosEnAcción (NeighborhoodsInAction) is a reimplementation of the famous MySociety platform FixMyStreet. It was a cooperation between [Fundación Ciudadano Inteligente](http://ciudadanointeligente.org) and [CiudadViva](http://ciudadviva.cl) 
 Use the guide to prepare good looking posts! The theme has a sidebar in the post layout which consists of post image, recent posts and facebook like box. This can be extended by editing the ``sidebar.html`` in **_includes** folder.
 
 ## Image
