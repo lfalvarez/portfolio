@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Candideit.org"
+categories: jekyll update
+img: candideitorg-1.png
+year: 2012
+categories: [civic-tech]
+links: 
+    - url: http://candideit.org/
+      description: The running version
+      type: link
+    - url: https://github.com/ciudadanointeligente/candidator
+      description: Repo in github
+      type: github
+---
+
+This is a platform that allows users to create their own questionary for choosing who is the closest candidate to their positions.
