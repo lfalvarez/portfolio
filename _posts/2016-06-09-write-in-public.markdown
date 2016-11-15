@@ -1,7 +1,16 @@
 ---
 layout: post
-title:  "Post with no image"
-categories: jekyll update
+title:  "Write In Public"
+img: write-in-public-1.png
+year: 2015
+categories: [civic-tech]
+links: 
+    - url: http://barriosenaccion.cl
+      description: The running version
+      type: link
+    - url: github.com/ciudadanointeligente/barriosenaccion
+      description: Repo in github
+      type: github
 ---
 When there is no image mentioned in the front-matter, default image will be displayed. You can change this image to any other one that suits your needs.
 

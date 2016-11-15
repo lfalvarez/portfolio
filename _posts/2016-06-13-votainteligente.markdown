@@ -4,7 +4,8 @@ title:  "VotaInteligente Chile 2016"
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
 img: vota.png
-categories: [one, two]
+year: 2016
+categories: [civic-tech]
 links: 
     - url: http://votainteligente.cl
       description: The running version
@@ -27,3 +28,8 @@ Here you can find the result of what we called 'Political Soulmate' or Media Nar
 ![](/images/vota5.png)
 
 By responding a quiz you get the result.
+
+Results
+=======
+The site itself was intended to run for the past municipal elections the amount of visits was just a bit over 3% of all the voters.
+There were 14,000 candidates (for mayor and council), of those candidates about 1,200 added their details to the platform

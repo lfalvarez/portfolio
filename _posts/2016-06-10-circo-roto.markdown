@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Elements"
-categories: jekyll update
-img: image-4.png
+title:  "Street Performance in a Santiago's plaza"
+categories: [circus]
+img: circo-roto-1.jpg
 ---
 Below elements can be used just by adding certain classes to regular html elements. Since the theme is based on Bootstrap, you can use any bootstrap class in this theme.
 
