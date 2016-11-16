@@ -20,6 +20,12 @@ The software behind DelDichoAlHecho has been used by other organizations, such i
 
 ![](/images/ddah-2.png)
 
-Due to the recent corruption scandals in Chile, the president created a [Presidential Advisory Council Against Conflicts of Interests](http://consejoanticorrupcion.cl/) in charged of proposing several measures to improve the probity of the chilean representatives. The result of that advisory council is called the "Engel Report" (named after it's president Eduardo Engel). Using that as an input [Ciudadano Inteligente](http://ciudadanointeligente.org) and [Espacio Público](http://espaciopublico.cl) created [Observatorio Anticorrupción](http://observatorioanticorrupcion.cl/)(AntiCorruption Observatory) a platform that publishes shows the progress that the presidency and the Congress has made in the matter. The platform that we created is not the same as DelDichoAlHecho but an spin-off with several extra features, such as having an agenda and news.
+Due to the recent corruption scandals in Chile, the president created a [Presidential Advisory Council Against Conflicts of Interests](http://consejoanticorrupcion.cl/) in charged of proposing several measures to improve the probity of the chilean representatives. The result of that advisory council is called the "Engel Report" (named after it's president Eduardo Engel). Using that as an input [Ciudadano Inteligente](http://ciudadanointeligente.org) and [Espacio Público](http://espaciopublico.cl) created [Observatorio Anticorrupción](http://observatorioanticorrupcion.cl/)(AntiCorruption Observatory) a platform that publishes the progress that the presidency and the Congress has made in the matter. The platform that we created is not the same as DelDichoAlHecho but an spin-off with several extra features, such as having an agenda and news.
 
 ![](/images/ddah-3.png)
+
+Results
+=======
+Some of the important results we had in the long run are:
+
+* The government dedicated a [full website](http://www.cumplimiento.gob.cl/) to show how much has been done in the current presidential term.
