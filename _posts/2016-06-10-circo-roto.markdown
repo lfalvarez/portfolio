@@ -2,7 +2,7 @@
 layout: post
 title:  "Street Performance in a Santiago's plaza"
 categories: [circus]
-year: 2015
+year: 2015 - 2016
 img: circo-roto-1.jpg
 ---
 During November of the year 2015, with a group of friends formed a collective around street art and circus, our main porpuse is to promote street performances as a form of art and open new spaces for upcoming artists.

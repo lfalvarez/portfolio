@@ -5,15 +5,20 @@ img: write-in-public-1.png
 year: 2015
 categories: [civic-tech]
 links: 
-    - url: http://barriosenaccion.cl
+    - url: http://writeinpublic.com/en/
       description: The running version
       type: link
-    - url: github.com/ciudadanointeligente/barriosenaccion
+    - url: https://github.com/ciudadanointeligente/write-it
       description: Repo in github
       type: github
 ---
-When there is no image mentioned in the front-matter, default image will be displayed. You can change this image to any other one that suits your needs.
+WriteIt is one of the components of [Poplus.org](http://poplus.org) and was originally conceived as Website that allows anyone to create their own site to send public messages to their politicians.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor. Sed viverra ullamcorper commodo.
+It has mainly been developed by Fundación Ciudadano Inteligente and MySociety.
 
-Morbi vestibulum sem eget maximus feugiat. Curabitur vehicula magna in molestie dignissim. Nam gravida leo non purus cursus, id accumsan justo tincidunt. Donec accumsan purus mauris, vitae luctus magna faucibus vitae. Nullam tincidunt urna scelerisque, hendrerit mi ac, sagittis ligula. Curabitur convallis eros eu fringilla maximus. Donec lobortis scelerisque enim eu molestie. Duis ac mi quis risus auctor vulputate.
+Has been used in several occassions by different grassroots organizations in different contexts, some of them are:
+
+* [Nouabook](http://nouabook.ma/fr/) a moroccan site that aims to help moroccan citizens to comunicate with their de MPs.
+* [Planning Alerts](https://www.planningalerts.org.au/) an Australian site that alerts citizens whenever there is a new plannig application. The particular role that WriteInPublic plays in the platform is that it allows citizens to speak publicly to the authority of the application.
+
+It has also been used by other platforms from Ciudadano Inligente such as [CongresoAbierto.cl](http://congresoabierto.cl/).

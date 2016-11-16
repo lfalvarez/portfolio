@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "DelDichoAlHecho (FromSaidToDone)"
+img: ddah-1.png
+year: 2016
+categories: [civic-tech]
+links: 
+    - url: http://deldichoalhecho.cl/
+      description: The running version
+      type: link
+    - url: https://github.com/ciudadanointeligente/check-it
+      description: Repo in github
+      type: github
+---
+Every year [Fundación Ciudadano Inteligente](http://ciudadanointeligente.org) creates a report to express how much the government has fulfill their promises. The main porpuse of this project is to promote a culture of accountability among government agents.
+
+The second goal of DelDichoAlHecho, is to promote accountability on the counterpart or in other words, Civil Society Organizations, for that porpuse we opened the engine for DelDichoAlHecho (check-it).
+
+The software behind DelDichoAlHecho has been used by other organizations, such is the case of [deldichoalhecho.com.uy](http://1anogobiernonacional.deldichoalhecho.com.uy/) of [UyCheck](http://uycheck.com/noticias/) an NGO from Uruguay who does fact checking of their president.
+
+![](/images/ddah-2.png)
+
+Due to the recent corruption scandals in Chile, the president created a [Presidential Advisory Council Against Conflicts of Interests](http://consejoanticorrupcion.cl/) in charged of proposing several measures to improve the probity of the chilean representatives. The result of that advisory council is called the "Engel Report" (named after it's president Eduardo Engel). Using that as an input [Ciudadano Inteligente](http://ciudadanointeligente.org) and [Espacio Público](http://espaciopublico.cl) created [Observatorio Anticorrupción](http://observatorioanticorrupcion.cl/)(AntiCorruption Observatory) a platform that publishes shows the progress that the presidency and the Congress has made in the matter. The platform that we created is not the same as DelDichoAlHecho but an spin-off with several extra features, such as having an agenda and news.
+
+![](/images/ddah-3.png)

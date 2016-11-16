@@ -13,7 +13,14 @@
              <ul>
                 {% for link in page.links %}
                       <li>
-                      <p><a href="{{ link.url }}">{% if link.type=='github' %}<i class="fa fa-github-alt" aria-hidden="true"></i>{% endif %}{{ link.description }}</a></p>
+                      <p><a href="{{ link.url }}">
+                        {% if link.type=='github'%}
+                          <i class="fa fa-github-alt" aria-hidden="true"></i>
+                           Github
+                        {% elsif link.type=='link'%}
+                          <i class="fa fa-globe" aria-hidden="true"></i>
+                           Link
+                        {% endif %}</a></p>
                       </li>
 
                 {% endfor %}

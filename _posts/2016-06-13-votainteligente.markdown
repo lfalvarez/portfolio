@@ -14,7 +14,7 @@ links:
       description: Repo in github
       type: github
 ---
-[VotaInteligente 2016](http://votainteligente.cl) is the last version of the electoral platform from [Fundación Ciudadano Inteligente](http://ciudadanointeligente.org). It was meant to provide information about the candidates for the las [municipal elections in Chile](https://en.wikipedia.org/wiki/Elections_in_Chile#Municipal_elections).
+[VotaInteligente 2016](http://votainteligente.cl) is the last version of the electoral platform from [Fundación Ciudadano Inteligente](http://ciudadanointeligente.org). It was meant to provide information about the candidates for the last [municipal elections in Chile](https://en.wikipedia.org/wiki/Elections_in_Chile#Municipal_elections).
 
 It features all that is necessary contents for the citizens to vote informed and also it contains a game in which you can find your 'Political soulmate' and last but not least it features 'Citizen's proposals' where you as citizen could post your proposal and the candidates were able to adopt one, so if one gets elected then she/he should be accountable for that proposal.
 

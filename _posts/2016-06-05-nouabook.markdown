@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Nouabook.ma"
+categories: colaborative platforms
+img: nouabook-1.png
+year: 2014
+categories: [civic-tech]
+links: 
+    - url: http://noaubook.ma
+      description: The running version
+      type: link
+    - url: github.com/lfalvarez/nouabook
+      description: Repo in github
+      type: github
+---
