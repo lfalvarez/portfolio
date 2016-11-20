@@ -18,4 +18,4 @@ For the [guatemalan general election of 2015](https://en.wikipedia.org/wiki/Guat
 
 The interesting part happened a couple of months before the election, because [La Linea corruption case exploded](https://en.wikipedia.org/wiki/La_L%C3%ADnea_corruption_case) exploded putting a lot of people that hadn't been protesting before to the Constitution Square to demonstrate against corruption.
 
-The protests put to the tests some of the assumptions we had about change in a society t 
+When the protests exploded RedCiudadana was almost at the center of it, the platform itself was merely an excuse for the media to look for their opinion. And my role as an operator of the platform, was basically understanding the context by talking to RedCiudadana and help them with changes to help them stay relevant.
