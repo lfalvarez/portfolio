@@ -16,7 +16,7 @@ links:
 ---
 [VotaInteligente 2016](http://votainteligente.cl) is the last version of the electoral platform from [Fundación Ciudadano Inteligente](http://ciudadanointeligente.org). It provided all the necesary information about the candidates for the last [municipal elections in Chile](https://en.wikipedia.org/wiki/Elections_in_Chile#Municipal_elections).
 
-As part of the team that envisioned the changes that this year's electoral platform was going to have, I designed experiments (in streets, demonstrations, with previous candidates and authorities) as well as analysed results of them. Those results led us to propose what lately was called citizen's proposals. I also lead the development of the project always adapting to changes in the political and social context and acting as catalist between the design and development team and the social sciences team.
+As part of the team that envisioned the changes that this year's electoral platform was going to have, I designed experiments (in streets, demonstrations, with previous candidates and authorities) as well as analysed results of them. Those results led us to propose what later became "citizen's proposals". I also lead the development of the project always adapting to changes in the political and social context and acting as catalist between the design and development team and the social sciences team.
 
 It features all that is necessary contents for the citizens to vote informed and also it contains a game in which you can find your 'Political soulmate' and last but not least it features 'Citizen's proposals' where you as citizen could post your proposal and the candidates were able to adopt one, so if one gets elected then she/he should be accountable for that proposal.
 
