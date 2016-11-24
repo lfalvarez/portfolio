@@ -14,7 +14,7 @@ links:
 ---
 WriteIt is one of the components of [Poplus.org](http://poplus.org) and was originally conceived as Website that allows anyone to create their own site to send public messages to their politicians.
 
-It has mainly been developed by Fundación Ciudadano Inteligente and MySociety. Initially my role in the project was as a Software Developer, lately and due to my participation in the [Poplus community](/poplus/), participated in the integration of WriteIt with other poplus components such as [Cuttlefish](https://cuttlefish.io/).
+It has mainly been developed by Fundación Ciudadano Inteligente and MySociety. Initially my role in the project was as a Software Developer, lately and due to my participation in the [Poplus community](/poplus/), I formed part of the integration of WriteIt with other poplus components such as [Cuttlefish](https://cuttlefish.io/).
 
 Has been used in several occassions by different grassroots organizations in different contexts, some of them are:
 

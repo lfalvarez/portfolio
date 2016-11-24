@@ -16,6 +16,9 @@ links:
 
 BarriosEnAcción (NeighborhoodsInAction) is a reimplementation of the MySociety platform [FixMyStreet](http://fixmystreet.org/). It was a cooperation between [Fundación Ciudadano Inteligente](http://ciudadanointeligente.org) and [CiudadViva](http://ciudadviva.cl) a local NGO related to urban issues.
 
+For this project, I adapted [FixMyStreet](http://fixmystreet.org/) with a different look and also coordinated with departments of computing from the two municipalities.
+Another part of the project was to adapt the mobile application.
+
 It coordinated the issues raised by the citizens of the communes of Providencia and Santiago in Chile.
 For that we extended parts of the original platform to integrate with the systems from the administration of the two municipalities.
 
@@ -30,8 +33,3 @@ Awards
 BarriosEnAccion won the first place in the QueVeo awards, an NGO that promotes quality content in TV, Radio and the Internet, in the category of "Community Contribution Website".
 
 ![](/images/barrios-3.png)
-
-My role in the team
-===================
-I adapted [FixMyStreet](http://fixmystreet.org/) with a different look and also coordinated with departments of computing from the two municipalities.
-Another part of the project was to adapt the mobile application.
