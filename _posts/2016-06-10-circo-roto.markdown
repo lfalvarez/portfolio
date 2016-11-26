@@ -4,6 +4,10 @@ title:  "Street Performance in a Santiago's plaza"
 categories: [circus]
 year: 2015 - 2016
 img: circo-roto-1.jpg
+categories: [street art]
+country: Chile
+organization: CircoRoto
+people: [Karla Otarola, Cindy Salas, Nicolás Reyes]
 ---
 During November of the year 2015, with a group of friends formed a collective around street art and circus, our main purpose is to promote street performances as a form of regaining the street and public spaces for the neighbors and the local organizations.
 

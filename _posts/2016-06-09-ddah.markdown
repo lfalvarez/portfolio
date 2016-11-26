@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "DelDichoAlHecho (FromSaidToDone)"
+title: DelDichoAlHecho (FromSaidToDone)
 img: ddah-1.png
-year: 2016
+year: 2014-2016
 categories: [civic-tech]
+country: Chile, Uruguay
+organization: Fundación Ciudadano Inteligente
+colaboration: 
+    - name: UyCheck
+      url: http://www.uycheck.com/
+people: [Daniela Tejada, Román Sugo]
 links: 
     - url: http://deldichoalhecho.cl/
       description: The running version
@@ -12,7 +18,7 @@ links:
       description: Repo in github
       type: github
 ---
-Every year [Fundación Ciudadano Inteligente](http://ciudadanointeligente.org) creates a report to express how much the government has fulfill their promises. The main porpuse of this project is to promote a culture of accountability among government agents.
+Every year [Fundación Ciudadano Inteligente](http://ciudadanointeligente.org) creates a report to express how much the government has fulfill its promises. The main porpuse of this project is to promote a culture of accountability among government agents.
 
 As a developer I actively participated and advocated to transform the previous versions of DelDichoAlHecho into an create-your-own version of it. I also designed and developed a [SaaS version](http://sas.deldichoalhecho.cl), so anyone without the technical knowledge could show the results of their own promise tracking.
 

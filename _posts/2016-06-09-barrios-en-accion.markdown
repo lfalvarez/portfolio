@@ -5,6 +5,11 @@ categories: colaborative platforms
 img: barrios-1.png
 year: 2015
 categories: [civic-tech]
+country: Chile
+organization: Fundación Ciudadano Inteligente
+colaboration: 
+    - name: Ciudad Viva
+      url: http://www.ciudadviva.cl/
 links: 
     - url: http://barriosenaccion.cl
       description: The running version

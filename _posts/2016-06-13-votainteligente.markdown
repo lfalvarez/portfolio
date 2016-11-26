@@ -6,6 +6,18 @@ categories: jekyll update
 img: vota.png
 year: 2016
 categories: [civic-tech]
+country: Chile
+organization: Fundación Ciudadano Intelingente
+colaboration:
+    - name: TECHO
+      url: http://www.techo.org/paises/chile/
+    - name: Junto Al Barrio
+      url: http://www.juntoalbarrio.cl/
+    - name: Iguales
+      url: https://www.iguales.cl/
+    - name: TodoMejora
+      url: https://todomejora.org/
+people: [Catalina Margozzini, Margarita Maira, Gabriel Castillo, Bastián Torres]
 links: 
     - url: http://votainteligente.cl
       description: The running version

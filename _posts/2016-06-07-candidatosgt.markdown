@@ -5,6 +5,12 @@ categories: colaborative platforms
 img: candidatos-1.png
 year: 2015
 categories: [civic-tech]
+country: Guatemala
+organization: Fundación Ciudadano Inteligente
+colaboration: 
+    - name: RedCiudadana
+      url: http://www.redciudadana.org/
+people: [Catalina Margozzini, Julio Herrera]
 links: 
     - url: http://barriosenaccion.cl
       description: The running version

@@ -7,8 +7,33 @@ layout: default
 
           <header class="post-header">
             <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-            <p class="post-meta"><time datetime="{{ page.year }}" itemprop="datePublished">{{ page.year }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-                 
+            <p class="post-meta">
+            {% if page.categories %}
+              {% for cat in page.categories %}
+                <span class="label label-primary">{{cat}}</span>
+              {% endfor %}
+            {% endif %}</p>
+            {% if page.country %}
+            <p><strong>Country</strong>: <span>{{page.country}}</span></p>
+            {% endif %}
+            {% if page.year %}
+            <p><strong>Year</strong>: <span>{{page.year}}</span></p>
+            {% endif %}
+            {% if page.organization %}
+            <p><strong>Organization</strong>: <span>{{page.organization}}</span></p>
+            {% endif %}
+            {% if page.colaboration %}
+            <p><strong>In colaboration with</strong>: {% for col in page.colaboration%}
+                                                      <a href="{{col.url}}">{{col.name}}</a>{% if forloop.last != true %},{% else %}.{% endif %}
+                                                      {% endfor %}
+                                                    </p>
+            {% endif %}
+            {% if page.people %}
+            <p><strong>People</strong>: {% for person in page.people%}
+                                                      <span>{{person}}</span>{% if forloop.last != true %},{% else %}.{% endif %}
+                                                      {% endfor %}
+                                                    </p>
+            {% endif %}
           </header>
 
           <div class="post-content" itemprop="articleBody">
