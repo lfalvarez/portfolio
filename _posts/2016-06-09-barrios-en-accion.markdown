@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "BarriosEnAcción (NeighborhoodsInAction)"
-categories: colaborative platforms
 img: barrios-1.png
 year: 2015
-categories: [civic-tech]
+category: chile
 country: Chile
 organization: Fundación Ciudadano Inteligente
+responsabilities: Consultant and developer
+one_line_description: Allows neighbors to report, discuss and propose solutions to local neighborhood problems.
+featured: false
 colaboration: 
     - name: Ciudad Viva
       url: http://www.ciudadviva.cl/

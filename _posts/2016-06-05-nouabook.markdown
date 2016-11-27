@@ -1,16 +1,18 @@
 ---
 layout: post
 title:  "Nouabook.ma"
-categories: colaborative platforms
 img: nouabook-1.png
 year: 2014
-categories: [civic-tech]
+category: international
 country: Morocco
 organization: Fundación Ciudadano Inteligente
 colaboration: 
     - name: SimSim-Participation Citoyenne
       url: http://simsim.ma
 people: [Ismail Ilsouk, Andrew Maldelbaum]
+responsabilities: Consultant and developer
+one_line_description: Communication with the Moroccan representatives.
+featured: false
 links: 
     - url: http://noaubook.ma
       description: The running version

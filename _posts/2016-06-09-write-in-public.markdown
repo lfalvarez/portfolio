@@ -3,7 +3,7 @@ layout: post
 title:  "WriteIt"
 img: write-in-public-1.png
 year: 2014-2015
-categories: [civic-tech]
+category: international
 country: International
 organization: Fundación Ciudadano Inteligente
 colaboration: 
@@ -12,6 +12,9 @@ colaboration:
     - name: OpenAustralia
       url: https://www.openaustralia.org.au/
 people: [Paul Lenz, David Whiteland, Jen Bramley, Mark Longair, Myfanwy Nixon, Chris Mytton, Tony Bowden]
+responsabilities: Developer
+featured: false
+one_line_description: Make sites that empower citizens to send emails to representatives and politicians.
 links: 
     - url: http://writeinpublic.com/en/
       description: The running version
