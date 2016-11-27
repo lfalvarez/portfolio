@@ -8,6 +8,9 @@ categories: [street art]
 country: Chile
 organization: CircoRoto
 people: [Karla Otarola, Cindy Salas, Nicolás Reyes]
+responsabilities: Advocate and organizer
+featured: true
+one_line_description: Contemporary circus in public spaces.
 ---
 During November of the year 2015, with a group of friends formed a collective around street art and circus, our main purpose is to promote street performances as a form of regaining the street and public spaces for the neighbors and the local organizations.
 

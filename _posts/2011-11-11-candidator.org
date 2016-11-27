@@ -4,7 +4,7 @@ title:  "Candideit.org"
 categories: jekyll update
 img: candideitorg-1.png
 year: 2012
-categories: [civic-tech]
+categories: chile
 links: 
     - url: http://candideit.org/
       description: The running version
@@ -12,6 +12,10 @@ links:
     - url: https://github.com/ciudadanointeligente/candidator
       description: Repo in github
       type: github
+people: [Catalina Margozzini]
+responsabilities: Consultant and developer
+one_line_description: All there is to know about the past argentinian elections.
+featured: false
 ---
 
 This is a platform that allows users to create their own questionary for choosing who is the closest candidate to their positions.

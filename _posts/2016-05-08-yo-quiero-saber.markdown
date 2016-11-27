@@ -1,15 +1,17 @@
 ---
 layout: post
 title:  "YoQuieroSaber"
-categories: jekyll update
 img: yqs-1.png
 year: 2015
-categories: [civic-tech]
+category: international
 country: Argentina
 colaboration: 
     - name: Fundación Conocimiento Abierto Argentina
       url: https://www.fcabierto.org/
 people: [Martín Szyszlican, Yamila García, Agustina de Luca]
+responsabilities: Consultant and developer
+one_line_description: All there is to know about the past argentinian elections.
+featured: false
 links: 
     - url: http://www.yoquierosaber.org/
       description: The running version

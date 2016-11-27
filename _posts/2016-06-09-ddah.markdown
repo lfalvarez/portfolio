@@ -3,13 +3,16 @@ layout: post
 title: DelDichoAlHecho (FromSaidToDone)
 img: ddah-1.png
 year: 2014-2016
-categories: [civic-tech]
+category: chile
 country: Chile, Uruguay
 organization: Fundación Ciudadano Inteligente
+responsabilities: Lead developer
+one_line_description: Evaluation of compliance with the Government's legislative program
 colaboration: 
     - name: UyCheck
       url: http://www.uycheck.com/
 people: [Daniela Tejada, Román Sugo]
+featured: false
 links: 
     - url: http://deldichoalhecho.cl/
       description: The running version

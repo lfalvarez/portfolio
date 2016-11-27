@@ -5,9 +5,10 @@ date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
 img: vota.png
 year: 2016
-categories: [civic-tech]
+category: Chile
 country: Chile
 organization: Fundación Ciudadano Intelingente
+role: 
 colaboration:
     - name: TECHO
       url: http://www.techo.org/paises/chile/
@@ -18,6 +19,9 @@ colaboration:
     - name: TodoMejora
       url: https://todomejora.org/
 people: [Catalina Margozzini, Margarita Maira, Gabriel Castillo, Bastián Torres]
+responsabilities: Lead developer
+one_line_description: Influence the proposals of the candidates.
+featured: true
 links: 
     - url: http://votainteligente.cl
       description: The running version

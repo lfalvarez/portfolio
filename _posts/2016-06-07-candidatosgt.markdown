@@ -1,16 +1,18 @@
 ---
 layout: post
 title:  "CandiDatos.gt"
-categories: colaborative platforms
 img: candidatos-1.png
 year: 2015
-categories: [civic-tech]
+category: international
 country: Guatemala
 organization: Fundación Ciudadano Inteligente
 colaboration: 
     - name: RedCiudadana
       url: http://www.redciudadana.org/
 people: [Catalina Margozzini, Julio Herrera]
+responsabilities: Consultant and developer
+one_line_description: CandiDATOS.gt the Citizen Network electoral platform and the Global Shapers Hub of Guatemala City, promotes informed voting in the Guatemalan elections.
+featured: false
 links: 
     - url: http://barriosenaccion.cl
       description: The running version
