@@ -59,7 +59,13 @@ On the other hand, candidates could express their political positions on differe
   <p>Result of the 'Political Soulmate'</p>
 </div>
 
-Results
+Preliminary results
 -------
-The site itself was intended to run for the past municipal elections, the amount of visits was just a bit over 3% of all the voters.
-There were 14,000 candidates (for mayor and council), of those candidates about 1,200 added their details to the platform
+There were 14,000 candidates in total, of those 1,200 uploaded their information to VotaInteligente.
+
+
+The citizens uploaded over 3,000 proposals, of which a bit less than 600 had at least one candidate committing to them.
+
+The number of unique visitors was a bit over 3% of all the voters in the elections.
+
+The impact research is still being assembled and this are just preliminary results.
