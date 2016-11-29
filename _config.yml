@@ -23,9 +23,6 @@ built-by: Felipe Álvarez
 # Build settings
 markdown: kramdown
 permalink: /:title/
-paginate: 9
-paginate_path: /page:num/
-
 # Tracker
 analytics: UA-83979019-1
 
@@ -47,5 +44,5 @@ sass:
   style: compressed
 
 # Ruby Gems
-gems: [jekyll-paginate, jekyll-seo-tag]
+gems: [jekyll-seo-tag]
 

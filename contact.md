@@ -8,4 +8,7 @@ You can reach me by sending an email to <a href="mailto:luisfelipealvarez@gmail.
 
 If you prefer twitter you cand find me at <a href="twitter.com/lfalvarez">@lfalvarez</a>.
 
-![robot]({{site.baseurl}}/images/robot.jpg)
+<div class="thumbnail with-caption"> 
+	<img src='/images/robot.jpg'>
+	<p>Arduino experiment</p>
+</div>
