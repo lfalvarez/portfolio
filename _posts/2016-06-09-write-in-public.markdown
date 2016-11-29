@@ -31,13 +31,13 @@ We discovered that many civil society organizations, inspired by sites like [Wri
 
 My Role
 -------
-Initially, my role in the project was as a Software Developer, lately and due to my participation in the [Poplus community](/poplus/), I formed part of the integration of WriteIt with other poplus components such as [Cuttlefish](https://cuttlefish.io/).
+Initially, my role in the project was as a Software Developer, lately and due to my participation in the [Poplus community](/poplus/), I formed part of the integration of WriteIt with other Poplus components such as [Cuttlefish](https://cuttlefish.io/).
 
 Usage
 -----
-Has been used on several occassions by different grassroots organizations in different contexts, some of them are:
+Has been used on several occasions by different grassroots organizations in different contexts, some of them are:
 
-* [Nouabook](http://nouabook.ma/fr/) a Moroccan site that aims to help moroccan citizens to comunicate with their de MPs.
-* [Planning Alerts](https://www.planningalerts.org.au/) an Australian site that alerts citizens whenever there is a new plannig application. The particular role that WriteInPublic plays in the platform is that it allows citizens to speak publicly to the authority of the application.
+* [Nouabook](http://nouabook.ma/fr/) a Moroccan site that aims to help citizens communicate with their de MPs.
+* [Planning Alerts](https://www.planningalerts.org.au/) an Australian site that alerts citizens whenever there is a new planning application. The particular role that WriteInPublic plays in the platform is that it allows citizens to speak publicly to the authority of the application.
 
-It has also been used by other platforms from Ciudadano Inligente such as [CongresoAbierto.cl](http://congresoabierto.cl/).
+It has also been used by other platforms from Ciudadano Inteligente such as [CongresoAbierto.cl](http://congresoabierto.cl/).

@@ -21,17 +21,25 @@ links:
       description: Repo in github
       type: github
 ---
-Every year [Fundación Ciudadano Inteligente](http://ciudadanointeligente.org) creates a report to express how much the government has fulfill its promises. The main porpuse of this project is to promote a culture of accountability among government agents.
+Context
+-------
+Every year [Fundación Ciudadano Inteligente](http://ciudadanointeligente.org) creates a report to express how much the government has fulfilled its promises. The main purpose of this project is to promote a culture of accountability among government agents.
 
-As a developer I actively participated and advocated to transform the previous versions of DelDichoAlHecho into an create-your-own version of it. I also designed and developed a [SaaS version](http://sas.deldichoalhecho.cl), so anyone without the technical knowledge could show the results of their own promise tracking.
 
-The second goal of DelDichoAlHecho, is to promote accountability on the counterpart or in other words, Civil Society Organizations, for that porpuse we opened the engine for DelDichoAlHecho (check-it).
+The second goal of DelDichoAlHecho is to promote accountability on the counterpart or in other words, Civil Society Organizations, for that purpose we opened the engine for DelDichoAlHecho (check-it).
 
+
+My role
+-------
+As a developer, I actively participated and advocated to transform the previous versions of DelDichoAlHecho into a create-your-own version of it. I also designed and developed a [SaaS version](http://sas.deldichoalhecho.cl)(alpha), so anyone without the technical knowledge could show the results of their own promise tracking.
+
+Usage
+-----
 The software behind DelDichoAlHecho has been used by other organizations, such is the case of [deldichoalhecho.com.uy](http://1anogobiernonacional.deldichoalhecho.com.uy/) of [UyCheck](http://uycheck.com/noticias/) an NGO from Uruguay who does fact checking of their president.
 
 ![](/images/ddah-2.png)
 
-Due to the recent corruption scandals in Chile, the president created a [Presidential Advisory Council Against Conflicts of Interests](http://consejoanticorrupcion.cl/) in charged of proposing several measures to improve the probity of the chilean representatives. The result of that advisory council is called the "Engel Report" (named after it's president Eduardo Engel). Using that as an input [Ciudadano Inteligente](http://ciudadanointeligente.org) and [Espacio Público](http://espaciopublico.cl) created [Observatorio Anticorrupción](http://observatorioanticorrupcion.cl/)(AntiCorruption Observatory) a platform that publishes the progress that the presidency and the Congress has made in the matter. The platform that we created is not the same as DelDichoAlHecho but an spin-off with several extra features, such as having an agenda and news.
+Due to the recent corruption scandals in Chile, the president created a [Presidential Advisory Council Against Conflicts of Interests](http://consejoanticorrupcion.cl/) in charged of proposing several measures to improve the probity of the Chilean representatives. The result of that advisory council is called the "Engel Report" (named after it's president Eduardo Engel). Using that as an input [Ciudadano Inteligente](http://ciudadanointeligente.org) and [Espacio Público](http://espaciopublico.cl) created [Observatorio Anticorrupción](http://observatorioanticorrupcion.cl/)(AntiCorruption Observatory) a platform that publishes the progress that the presidency and the Congress have made in the matter. The platform that we created is not the same as DelDichoAlHecho but a spin-off with several extra features, such as having an agenda and news.
 
 ![](/images/ddah-3.png)
 
