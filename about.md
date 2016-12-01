@@ -18,6 +18,12 @@ And when it comes to aerial acrobatics my two favorite disciplines are [silks](h
 
 I also love cycling around the city, for that I have two bikes, both of assembled by myself.
 
+Acknowledgements
+----------------
+[Anca](https://twitter.com/AncaMatioc), [Cata](https://github.com/camargozzini) and Paz I wouldn't have done this without your help =).
+
+
 This portfolio is in support of my application to the Media Arts and Sciences (MAS) program at the [MediaLab](http://www.media.mit.edu/).
 
 For creating this portfolio, I used a jekyll theme called Webjeda-cards you can read more at [Webjeda Blog](http://blog.webjeda.com). And you can find the code for this portfolio at [my GitHub](https://github.com/lfalvarez/portfolio).
+

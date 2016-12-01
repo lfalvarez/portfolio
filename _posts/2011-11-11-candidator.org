@@ -13,7 +13,7 @@ links:
       description: Repo in github
       type: github
 people: [Catalina Margozzini]
-responsabilities: Consultant and developer
+responsabilities: Lead developer
 one_line_description: All there is to know about the past argentinian elections.
 featured: false
 ---

@@ -6,10 +6,14 @@ year: 2015 - 2016
 img: circo-roto-1.jpg
 country: Chile
 organization: CircoRoto
-people: [Karla Otarola, Cindy Salas, Nicolás Reyes]
+people: [Karla Ocaranza, Cindy Salas, Nicolás Reyes]
 responsabilities: Advocate and organizer
 featured: true
 one_line_description: Contemporary circus in public spaces.
+links: 
+    - url: https://www.facebook.com/circoroto/?fref=ts
+      description: The running version
+      type: link
 ---
 
 
