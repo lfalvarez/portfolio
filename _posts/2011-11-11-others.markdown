@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Other projects"
+categories: jekyll update
+img: candideitorg-1.png
+year: 2012
+categories: chile
+links: 
+    - url: http://candideit.org/
+      description: The running version
+      type: link
+    - url: https://github.com/ciudadanointeligente/candidator
+      description: Repo in github
+      type: github
+people: [Catalina Margozzini, Pedro Daire]
+responsabilities: Lead developer, actor, etc.
+one_line_description: Other projects.
+featured: false
+---
+This is a set of old project as well as funny ones.
+
+Candideit.org (2012)
+--------------------
+[Candideit.org](http://candideit.org) is a platform that allows users to create their own questionary for choosing who is the closest candidate to their positions. I was developer and together with [Catalina](http://github.com/camargozzini) got the site running.
+
+![](/images/candideitorg-2.png)
+
+Users could create any set of questions and a small quiz that could be shared with your friends.
+
+
+Ley del Lobby
+-------------
+As part of as a campaign for advocating for a Lobby Law in Chile, I acted in a spot.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_rv7zumVIj0" frameborder="0" allowfullscreen></iframe>
+
+Bicycle stories
+---------------
+![](/images/others-2.jpg)
+
+I love riding my bike and I love to think when I'm riding, therefore I write stories (in Spanish) about it.
+- [Volar en bicicleta (To fligh in a bicycle)](http://felipe.al/post/121843076142/volar-en-bicicleta).
+- [Soy el #27!!!!!” aventuras en una alleycat (I'm #27, adventures in an alleycat)](http://felipe.al/post/60048663981/soy-el-27-aventuras-en-una-alleycat)
+- [Spontaneous organization in the street](https://www.facebook.com/photo.php?fbid=10154681464518906&set=a.10150730409488906.493983.560973905&type=3&theater)
