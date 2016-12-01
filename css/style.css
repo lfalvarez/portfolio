@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
-  padding: 25px 0;
+  padding: 15px 0;
   z-index: 1;
   background: #edebe8;
 }
@@ -604,7 +604,8 @@ h1, h2, h3, h4, h5, h6, figure {
 .author {
   width: 100%;
   float: left;
-  margin-bottom: 5em;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
 }
 .author .author-inner {
   background-size: cover;

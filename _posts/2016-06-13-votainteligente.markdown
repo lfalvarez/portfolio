@@ -69,3 +69,11 @@ The citizens uploaded over 3,000 proposals, of which a bit less than 600 had at 
 The number of unique visitors was a bit over 3% of all the voters in the elections.
 
 The impact research is still being assembled and this are just preliminary results.
+
+Going technical
+-------
+VotaInteligente is writen in Python.
+
+The code of VotaInteligente started sometime around 4 years ago, it was only intended to provide information about the candidates, but as the years went by VotaInteligente and I started to evolve. I was influenced by the concepts of [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) and based on that I refactored quite a bit of the code. 
+
+If you are more interested you can check all the code and the history at the [GitHub repo](https://github.com/ciudadanointeligente/votainteligente-portal-electoral/).

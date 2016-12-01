@@ -22,6 +22,11 @@ This portfolio is in support of my application to the Media Arts and Sciences (M
 
 For creating this portfolio, I used a jekyll theme called Webjeda-cards you can read more at [Webjeda Blog](http://blog.webjeda.com). And you can find the code for this portfolio at [my GitHub](https://github.com/lfalvarez/portfolio).
 
-Acknowledgements
-----------------
+My CV
+------
+<p><a href="/cv.pdf" class="btn btn-primary btn-outline">My CV</a></p>
+
+Thanks to:
+----------	
 [Anca](https://twitter.com/AncaMatioc), [Cata](https://github.com/camargozzini) and Paz I wouldn't have done this without your help =).
+
