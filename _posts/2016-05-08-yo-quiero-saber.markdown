@@ -20,6 +20,12 @@ links:
       description: Repo in github
       type: github
 ---
-During the argentinian elections presidential elections of 2015, a group formed by several activists using [VotaInteligente](/votainteligente/) created [YoQuieroSaber](http://www.yoquierosaber.org/). It was a heavily community driven effort to gather as much information about the candidates and their opinions to inform the citizens of Argentina. They formed a series of alliances with local media.
+Context
+-------
+During the [argentinian presidential elections of 2015](https://en.wikipedia.org/wiki/Argentine_general_election,_2015), a network of organizations around better informing and educating voters. For that, and based on [VotaInteligente](/votainteligente/) they created [YoQuieroSaber](http://www.yoquierosaber.org/). It was a heavily community driven effort to gather as much information about the candidates and their opinions to inform the citizens of Argentina.
+
+My role
+-------
+The YQS team decided that they wanted to have several changes to VotaInteligente, some of them were very related to they way the 'Political Soulmate' was calculated. I developed the necessary created an extensions system to which the YQS team could hook changes.
 
 I played the role of backend developer and system administrator, I also helped the YQS team integrate their data into the existing platform.

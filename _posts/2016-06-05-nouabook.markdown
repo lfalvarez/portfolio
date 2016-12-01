@@ -21,10 +21,20 @@ links:
       description: Repo in github
       type: github
 ---
-Faceebook is one of the most popular sites among moroccans, and also is inspiration for [SimSim-Participation Citoyenne](http://simsim.ma/) to create a site that allows  citizens to communicate with MPs. 
+Context
+-------
+Facebook is one of the most popular sites among Moroccans, and also is the inspiration for [SimSim-Participation Citoyenne](http://simsim.ma/) to create a site that allows  citizens to communicate with MPs. 
 
 And as part of a [Poplus](/poplus/) community, they created [Nouabook.ma](http://nouabook.ma), which is built on top of [Write-It](/write-in-public/) and allows to send messages to MPs and receive public answers, much in the way you would do if you wanted to reach someone on Facebook.
 
-Since its launch in 2014, it has had over 3,000 messages from citizens.
 
-My role in Nouabook was in the first place to integrate it with [Write-It](/write-in-public/) and a technical consultant.
+
+My Role
+-------
+As a developer helping Nouabook my mission was to integrate it with [Write-It](/write-in-public/) and advising the team on technical matters.
+
+I have also lately been helping SimSim with updating their dataset.
+
+Results
+-------
+Since its launch in 2014, it has had over 160 messages from citizens. The site has 72 questions published and 24 MPs from 8 different parties have responded to 30 of those questions.
