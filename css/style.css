@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -15,7 +15,7 @@ body {
   font-weight: 300;
   font-size: 16px;
   line-height: 1.7;
-  color: #828282;
+  color: #0B0B0B;
   background: #fff;
 }
 
@@ -606,6 +606,7 @@ h1, h2, h3, h4, h5, h6, figure {
   float: left;
   margin-bottom: 1em;
   padding-bottom: 1em;
+  font-weight: normal;
 }
 .author .author-inner {
   background-size: cover;

@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "VotaInteligente Chile 2016"
+title:  "VotaInteligente Chile 2016 - 2017"
 date:   2016-06-13 10:51:47 +0530
 categories: featured
 img: vota.png
-year: 2016
+year: 2016 - 2017
 category: Chile
 country: Chile
 organization: Fundación Ciudadano Intelingente
-role: 
+role:
 colaboration:
     - name: TECHO
       url: http://www.techo.org/paises/chile/
@@ -22,7 +22,7 @@ people: [Catalina Margozzini, Margarita Maira, Gabriel Castillo, Bastián Torres
 responsabilities: Lead developer
 one_line_description: Influence the proposals of the candidates.
 featured: true
-links: 
+links:
     - url: http://votainteligente.cl
       description: The running version
       type: link
@@ -47,14 +47,14 @@ Features
 --------
 It allowed citizens to upload proposals related to their communities, and after a moderation process the candidates were notified of that proposal and could commit to those proposals publicly.
 
-<div class="thumbnail with-caption"> 
+<div class="thumbnail with-caption">
   <img src='/images/vota2.png'>
   <p>Candidates committing with a proposal</p>
 </div>
 
 On the other hand, candidates could express their political positions on different issues. That allowed citizens to compare candidates, but also compare themselves, that comparison is called 'Political Soulmate'.
 
-<div class="thumbnail with-caption"> 
+<div class="thumbnail with-caption">
   <img src='/images/vota5.png'>
   <p>Result of the 'Political Soulmate'</p>
 </div>
